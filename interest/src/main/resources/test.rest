@@ -1,0 +1,15 @@
+POST http://localhost:8080/jsongreet?businessKey=1
+Content-Type: application/json
+
+{
+  "workflowdata": {
+   "name" : "John",
+   "language": "Spanish"
+  }
+}
+
+### OpenAPi
+http://localhost:8080/q/openapi
+
+### Swagger UI
+http://localhost:8080/q/swagger-ui
