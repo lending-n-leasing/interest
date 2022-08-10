@@ -8,6 +8,9 @@ Content-Type: application/json
   }
 }
 
+### Get Details - Not working
+http://localhost:8080/jsongreet?id=d03ecaa7-5286-4c88-92cf-f3623fd6fdfc
+
 ### OpenAPi
 http://localhost:8080/q/openapi
 
